@@ -1,0 +1,949 @@
+{
+ "checked": "2026-11-21",
+ "terms": {},
+ "links": {
+  "http://ed-thelen.org/comp-hist/lgp-30-man.html": {
+   "status": "live",
+   "url": "https://ed-thelen.org/comp-hist/lgp-30-man.html",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://hacks.mit.edu/Hacks/Gallery.html": {
+   "status": "live",
+   "url": "http://hacks.mit.edu/Hacks/Gallery.html",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://slashdot.org/": {
+   "status": "live",
+   "url": "https://slashdot.org/",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www-formal.stanford.edu/jmc/history/timesharing/timesharing.html": {
+   "status": "live",
+   "url": "https://www-formal.stanford.edu/jmc/history/timesharing/timesharing.html",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.asciimation.co.nz/": {
+   "status": "live",
+   "url": "https://www.asciimation.co.nz/",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.blug.linux.no/rfc1149/": {
+   "status": "live",
+   "url": "https://blug.linux.no/rfc1149/",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.catb.org/~esr/ecsl/": {
+   "status": "live",
+   "url": "http://www.catb.org/~esr/ecsl/",
+   "note": "Raymond's own site. Its HTTPS certificate does not match its name, so the link stays http.",
+   "manual": true,
+   "checked": "2026-11-21"
+  },
+  "http://www.catb.org/~esr/faqs/hacker-howto.html": {
+   "status": "live",
+   "url": "http://www.catb.org/~esr/faqs/hacker-howto.html",
+   "note": "Raymond's own site. Its HTTPS certificate does not match its name, so the link stays http.",
+   "manual": true,
+   "checked": "2026-11-21"
+  },
+  "http://www.catb.org/~esr/intercal/": {
+   "status": "live",
+   "url": "http://www.catb.org/~esr/intercal/",
+   "note": "Raymond's own site. Its HTTPS certificate does not match its name, so the link stays http.",
+   "manual": true,
+   "checked": "2026-11-21"
+  },
+  "http://www.catb.org/~esr/jargon/": {
+   "status": "live",
+   "url": "http://www.catb.org/~esr/jargon/",
+   "note": "Raymond's own site. Its HTTPS certificate does not match its name, so the link stays http.",
+   "manual": true,
+   "checked": "2026-11-21"
+  },
+  "http://www.catb.org/~esr/sco.html": {
+   "status": "live",
+   "url": "http://www.catb.org/~esr/sco.html",
+   "note": "Raymond's own site. Its HTTPS certificate does not match its name, so the link stays http.",
+   "manual": true,
+   "checked": "2026-11-21"
+  },
+  "http://www.catb.org/~esr/writings/cathedral-bazaar/": {
+   "status": "live",
+   "url": "http://www.catb.org/~esr/writings/cathedral-bazaar/",
+   "note": "Raymond's own site. Its HTTPS certificate does not match its name, so the link stays http.",
+   "manual": true,
+   "checked": "2026-11-21"
+  },
+  "http://www.catb.org/~esr/writings/unixwars.html": {
+   "status": "live",
+   "url": "http://www.catb.org/~esr/writings/unixwars.html",
+   "note": "Raymond's own site. Its HTTPS certificate does not match its name, so the link stays http.",
+   "manual": true,
+   "checked": "2026-11-21"
+  },
+  "http://www.catb.org/retro/": {
+   "status": "live",
+   "url": "http://www.catb.org/retro/",
+   "note": "Raymond's own site. Its HTTPS certificate does not match its name, so the link stays http.",
+   "manual": true,
+   "checked": "2026-11-21"
+  },
+  "http://www.clifton.nl/": {
+   "status": "live",
+   "url": "https://www.clifton.nl/",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.cm.org/": {
+   "status": "live",
+   "url": "http://www.cm.org/",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.crank.net/usenet.html": {
+   "status": "live",
+   "url": "http://www.crank.net/usenet.html",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.empire.cx/": {
+   "status": "live",
+   "url": "https://www.empire.cx/",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.fourmilab.ch/hotbits/": {
+   "status": "live",
+   "url": "https://www.fourmilab.ch/hotbits/",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.fourmilab.ch/webtools/demoroniser/": {
+   "status": "live",
+   "url": "https://www.fourmilab.ch/webtools/demoroniser/",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.gnu.org/": {
+   "status": "live",
+   "url": "http://www.gnu.org/",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.gnu.org/fun/jokes/last.bug.html": {
+   "status": "live",
+   "url": "https://www.gnu.org/fun/jokes/last.bug.html",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.google.com": {
+   "status": "live",
+   "url": "https://www.google.com",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.ifarchive.org/": {
+   "status": "live",
+   "url": "https://www.ifarchive.org/",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.insecure.org/sploits/ping-o-death.html": {
+   "status": "live",
+   "url": "https://insecure.org/sploits/ping-o-death.html",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.inwap.com/pdp10/": {
+   "status": "live",
+   "url": "https://www.inwap.com/pdp10/",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.inwap.com/pdp10/hbaker/hakmem/hakmem.html": {
+   "status": "live",
+   "url": "https://www.inwap.com/pdp10/hbaker/hakmem/hakmem.html",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.ioccc.org/": {
+   "status": "live",
+   "url": "https://www.ioccc.org/",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.janda.org/c10/readings/monkeys.htm": {
+   "status": "live",
+   "url": "https://www.janda.org/c10/readings/monkeys.htm",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.jibble.org/jibblemeaning.php": {
+   "status": "live",
+   "url": "https://www.jibble.org/jibblemeaning.php",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.koth.org/": {
+   "status": "live",
+   "url": "http://www.koth.org/",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.lenna.org": {
+   "status": "live",
+   "url": "http://www.lenna.org",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.littlegreenfootballs.com/weblog/weblog.php": {
+   "status": "live",
+   "url": "https://www.littlegreenfootballs.com/weblog/weblog.php",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.lspace.org/faqs/acronym-faq.g.html": {
+   "status": "live",
+   "url": "https://www.lspace.org/faqs/acronym-faq.g.html",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.lysator.liu.se/c/bwk-on-pascal.html": {
+   "status": "live",
+   "url": "https://www.lysator.liu.se/c/bwk-on-pascal.html",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.lysator.liu.se/c/duffs-device.html": {
+   "status": "live",
+   "url": "https://www.lysator.liu.se/c/duffs-device.html",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.nethack.org/": {
+   "status": "live",
+   "url": "https://www.nethack.org/",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.oldskool.org/demos/explained/": {
+   "status": "live",
+   "url": "http://www.oldskool.org/demos/explained/",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.opensource.org": {
+   "status": "live",
+   "url": "https://opensource.org/",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.python.org": {
+   "status": "live",
+   "url": "https://www.python.org/",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.rickadams.org/adventure/": {
+   "status": "live",
+   "url": "https://rickadams.org/adventure/",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.scene.org/": {
+   "status": "live",
+   "url": "https://www.scene.org/",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.shub-internet.org/": {
+   "status": "live",
+   "url": "http://www.shub-internet.org/",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.spamhaus.org/": {
+   "status": "live",
+   "url": "https://www.spamhaus.org/",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.subgenius.com/": {
+   "status": "live",
+   "url": "https://www.subgenius.com/",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.syddware.com/hork.html": {
+   "status": "live",
+   "url": "https://www.syddware.com/hork.html",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.wolfpackempire.com/infopages/History.html": {
+   "status": "live",
+   "url": "https://www.wolfpackempire.com/infopages/History.html",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "http://www.zangband.org/": {
+   "status": "live",
+   "url": "https://www.zangband.org/",
+   "http": 200,
+   "checked": "2026-11-21"
+  },
+  "ftp://ftp.wustl.edu/doc/misc/if-archive/games/source/advent.tar.Z": {
+   "status": "moved",
+   "url": "https://www.ifarchive.org/if-archive/games/source/advent.tar.Z",
+   "note": "The IF Archive left ftp.wustl.edu long ago; the same file is at its own site.",
+   "manual": true,
+   "checked": "2026-11-21"
+  },
+  "ftp://metalab.unc.edu/pub/docs/books/gutenberg/etext93/wizoz10.txt": {
+   "status": "moved",
+   "url": "https://www.gutenberg.org/ebooks/55",
+   "note": "Project Gutenberg's own page for The Wonderful Wizard of Oz (etext 55), which wizoz10.txt was.",
+   "manual": true,
+   "checked": "2026-11-21"
+  },
+  "http://groups.google.com/groups?hl=en&selm=10195%40ksr.com": {
+   "status": "moved",
+   "url": "https://groups.google.com/g/comp.std.c/c/ycpVKxTZkgw/m/S2hHdTbv4d8J?hl=en",
+   "http": 200,
+   "note": "The site redirects to its new address.",
+   "checked": "2026-11-21"
+  },
+  "http://groups.google.com/groups?selm=0001%40kremvax.UUCP": {
+   "status": "moved",
+   "url": "https://groups.google.com/g/eunet.general/c/_WKpffStBPc/m/JaaDBecKCM8J",
+   "http": 200,
+   "note": "The site redirects to its new address.",
+   "checked": "2026-11-21"
+  },
+  "http://groups.google.com/groups?selm=1991Jan23.211609.877%40news.cs.indiana.edu": {
+   "status": "moved",
+   "url": "https://groups.google.com/g/comp.sys.next/c/JDaeD8oqarU/m/v8xaDS8kXM0J",
+   "http": 200,
+   "note": "The site redirects to its new address.",
+   "checked": "2026-11-21"
+  },
+  "http://groups.google.com/groups?threadm=tweekC4qM0A.H3q%40netcom.com": {
+   "status": "moved",
+   "url": "https://groups.google.com/g/news.admin.policy/c/fddF-U7wDE0/m/dg0SQcy6w5cJ",
+   "http": 200,
+   "note": "The site redirects to its new address.",
+   "checked": "2026-11-21"
+  },
+  "http://reason.com/9606/Fe.QWERTY.html": {
+   "status": "moved",
+   "url": "https://reason.com/1996/06/01/typing-errors/",
+   "http": 200,
+   "note": "The site redirects to its new address.",
+   "checked": "2026-11-21"
+  },
+  "http://www.cc.gatech.edu/~turk/bunny/bunny.html": {
+   "status": "moved",
+   "url": "https://faculty.cc.gatech.edu/~turk/bunny/bunny.html",
+   "http": 200,
+   "note": "The site redirects to its new address.",
+   "checked": "2026-11-21"
+  },
+  "http://www.fas.org/nuke/guide/usa/c3i/defcon.htm": {
+   "status": "moved",
+   "url": "https://nuke.fas.org/guide/usa/c3i/defcon.htm",
+   "http": 200,
+   "note": "The site redirects to its new address.",
+   "checked": "2026-11-21"
+  },
+  "http://www.somethingawful.com/jeffk/": {
+   "status": "moved",
+   "url": "https://js.somethingawful.com/hosted/jeffk/",
+   "http": 200,
+   "note": "The site redirects to its new address.",
+   "checked": "2026-11-21"
+  },
+  "http://www.worldwidewords.org/articles/monty.htm": {
+   "status": "moved",
+   "url": "https://www.worldwidewords.org/monty.html",
+   "http": 200,
+   "note": "The site redirects to its new address.",
+   "checked": "2026-11-21"
+  },
+  "http://albrecht.ecn.purdue.edu/~taylor/humor/hack.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20021001195838/http://albrecht.ecn.purdue.edu:80/~taylor/humor/hack.html",
+   "archived": "2002-10-01",
+   "note": "The original is unreachable (ENOTFOUND).",
+   "checked": "2026-11-21"
+  },
+  "http://archive.salon.com/21st/chal/1998/02/10chal.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20040417070150/http://archive.salon.com:80/21st/chal/1998/02/10chal.html",
+   "archived": "2004-04-17",
+   "note": "The original is unreachable (ENOTFOUND).",
+   "checked": "2026-11-21"
+  },
+  "http://bob.bob.bofh.org/~giolla/bobcode.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031202202846/http://bob.bob.bofh.org:80/~giolla/bobcode.html",
+   "archived": "2003-12-02",
+   "note": "The original is unreachable (ENOTFOUND).",
+   "checked": "2026-11-21"
+  },
+  "http://bofh.ntk.net/Bastard.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031202031922/http://bofh.ntk.net:80/Bastard.html",
+   "archived": "2003-12-02",
+   "note": "The original now goes to http://bofharchive.com (front page).",
+   "checked": "2026-11-21"
+  },
+  "http://cm.bell-labs.com/cm/cs/who/dmr/odd.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031222031246/http://cm.bell-labs.com:80/cm/cs/who/dmr/odd.html",
+   "archived": "2003-12-22",
+   "note": "The original is unreachable (ENOTFOUND).",
+   "checked": "2026-11-21"
+  },
+  "http://come.to/the.lumber.cartel/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20040202022114/http://come.to:80/the.lumber.cartel",
+   "archived": "2004-02-02",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://developer.apple.com/products/techsupport/dogcow/tn31.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031206073931/http://developer.apple.com:80/products/techsupport/dogcow/tn31.html",
+   "archived": "2003-12-06",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://dmoz.org/Computers/Artificial_Life/Cellular_Automata/Conway%27s_Game_of_Life/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031202175329/http://dmoz.org:80/Computers/Artificial_Life/Cellular_Automata/Conway%27s_Game_of_Life/",
+   "archived": "2003-12-02",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://firstmonday.org/issues/issue7_11/tuomi/index.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031204194541/http://firstmonday.org:80/issues/issue7_11/tuomi/index.html",
+   "archived": "2003-12-04",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://khavrinen.lcs.mit.edu/wollman/ien-137.txt": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031209153422/http://khavrinen.lcs.mit.edu:80/wollman/ien-137.txt",
+   "archived": "2003-12-09",
+   "note": "The original is unreachable (ERR_TLS_CERT_ALTNAME_INVALID).",
+   "checked": "2026-11-21"
+  },
+  "http://lavarnd.org/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031217152347/http://www.lavarnd.org:80/",
+   "archived": "2003-12-17",
+   "note": "The original now goes to https://www.casinoonlinerealmoney.us.com (front page).",
+   "checked": "2026-11-21"
+  },
+  "http://members.aol.com/EOCostello/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031121022931/http://members.aol.com:80/EOCostello/",
+   "archived": "2003-11-21",
+   "note": "The original now goes to https://www.aol.com (front page).",
+   "checked": "2026-11-21"
+  },
+  "http://mitpress.mit.edu/sicp/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031206010208/http://mitpress.mit.edu:80/SICP/",
+   "archived": "2003-12-06",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://panda.com/tops-20/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031207141323/http://www.panda.com:80/tops-20/",
+   "archived": "2003-12-07",
+   "note": "The original answers HTTP 520.",
+   "checked": "2026-11-21"
+  },
+  "http://research.microsoft.com/~mbj/Smiley/Smiley.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20040104123219/http://research.microsoft.com:80/~mbj/Smiley/smiley.html",
+   "archived": "2004-01-04",
+   "force": "archive",
+   "note": "The address now redirects to Microsoft Research's front page, so the archived copy is used.",
+   "checked": "2026-11-21"
+  },
+  "http://screenshots.sourceforge.net/misc/SpaceCadet.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031210081654/http://screenshots.sourceforge.net:80/misc/SpaceCadet.html",
+   "archived": "2003-12-10",
+   "note": "The original answers HTTP 403.",
+   "checked": "2026-11-21"
+  },
+  "http://Sunburn.Stanford.EDU/~knuth/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031120084136/http://sunburn.stanford.edu:80/~knuth/",
+   "archived": "2003-11-20",
+   "note": "The original is unreachable (ENOTFOUND).",
+   "checked": "2026-11-21"
+  },
+  "http://telnet.hu/hamster/pdp-11/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20030808174002/http://www.telnet.hu:80/hamster/pdp-11/",
+   "archived": "2003-08-08",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://thangorodrim.angband.org/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20030624113138/http://thangorodrim.angband.org:80/",
+   "archived": "2003-06-24",
+   "note": "The original is unreachable (ENOTFOUND).",
+   "checked": "2026-11-21"
+  },
+  "http://tmrc-www.mit.edu/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20011105025433/http://tmrc-www.mit.edu:80/",
+   "archived": "2001-11-05",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://tmrc-www.mit.edu/dictionary.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20011104211135/http://tmrc-www.mit.edu:80/dictionary.html",
+   "archived": "2001-11-04",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://world.std.com/~mmcirvin/indent.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031205051411/http://world.std.com:80/~mmcirvin/indent.html",
+   "archived": "2003-12-05",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://www.acm.org/classics/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20040202173332/http://www.acm.org:80/classics/",
+   "archived": "2004-02-02",
+   "note": "The original answers HTTP 403.",
+   "checked": "2026-11-21"
+  },
+  "http://www.acm.org/classics/sep95/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031002111607/http://www.acm.org:80/classics/sep95/",
+   "archived": "2003-10-02",
+   "note": "The original answers HTTP 403.",
+   "checked": "2026-11-21"
+  },
+  "http://www.angelfire.com/in/hypnosonic/Parable_of_the_Monkeys.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20040124015836/http://www.angelfire.com:80/in/hypnosonic/Parable_of_the_Monkeys.html",
+   "archived": "2004-01-24",
+   "note": "The original is unreachable (ENOTFOUND).",
+   "checked": "2026-11-21"
+  },
+  "http://www.ao.com/~regan/penguins/tux.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031207140427/http://www.ao.com:80/~regan/penguins/tux.html",
+   "archived": "2003-12-07",
+   "note": "The original answers HTTP 403.",
+   "checked": "2026-11-21"
+  },
+  "http://www.argentum.freeserve.co.uk/lex_home.htm": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031207050603/http://www.argentum.freeserve.co.uk:80/lex_home.htm",
+   "archived": "2003-12-07",
+   "note": "The original is unreachable (EAI_AGAIN).",
+   "checked": "2026-11-21"
+  },
+  "http://www.blazemonger.com/BM/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031204110522/http://www.blazemonger.com:80/BM/",
+   "archived": "2003-12-04",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://www.catseye.mb.ca/esoteric/befunge/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20030207170658/http://www.catseye.mb.ca:80/esoteric/befunge/",
+   "archived": "2003-02-07",
+   "note": "The original is unreachable (ENOTFOUND).",
+   "checked": "2026-11-21"
+  },
+  "http://www.cdt.org/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031224175513/http://www.cdt.org:80/",
+   "archived": "2003-12-24",
+   "note": "The original answers HTTP 403.",
+   "checked": "2026-11-21"
+  },
+  "http://www.conceptlabs.co.uk/alicebob.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031202193503/http://www.conceptlabs.co.uk:80/alicebob.html",
+   "archived": "2003-12-02",
+   "note": "The original is unreachable (ENOTFOUND).",
+   "checked": "2026-11-21"
+  },
+  "http://www.cs.brown.edu/courses/cs167/weenix.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031212010249/http://www.cs.brown.edu:80/courses/cs167/weenix.html",
+   "archived": "2003-12-12",
+   "note": "The original now goes to https://csci1670.github.io (front page).",
+   "checked": "2026-11-21"
+  },
+  "http://www.cs.pdx.edu/%7Ekirkenda/joy84.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031202160557/http://www.cs.pdx.edu:80/~kirkenda/joy84.html",
+   "archived": "2003-12-02",
+   "note": "The original answers HTTP 500.",
+   "checked": "2026-11-21"
+  },
+  "http://www.cs.rice.edu/History/R1/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031220061509/http://www.cs.rice.edu:80/History/R1/",
+   "archived": "2003-12-20",
+   "note": "The original answers HTTP 406.",
+   "checked": "2026-11-21"
+  },
+  "http://www.cs.uu.nl/wais/html/na-dir/food/kool-aid-faq.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031203071711/http://www.cs.uu.nl:80/wais/html/na-dir/food/kool-aid-faq.html",
+   "archived": "2003-12-03",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://www.csd.uwo.ca/Infocom/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031206082443/http://www.csd.uwo.ca:80/Infocom/",
+   "archived": "2003-12-06",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://www.darkwater.com/omni/geek.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20040405084234/http://www.darkwater.com:80/omni/geek.html",
+   "archived": "2004-04-05",
+   "note": "The original is now a parked domain.",
+   "checked": "2026-11-21"
+  },
+  "http://www.debian.or.jp/~kubota/mojibake/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031205132412/http://www.debian.or.jp:80/~kubota/mojibake/",
+   "archived": "2003-12-05",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://www.demon.net/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031205130420/http://www.demon.net:80/",
+   "archived": "2003-12-05",
+   "note": "The original answers HTTP 503.",
+   "checked": "2026-11-21"
+  },
+  "http://www.e-pix.com/CPUWARS/cpuwars.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031202201921/http://e-pix.com:80/CPUWARS/cpuwars.html",
+   "archived": "2003-12-02",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://www.ElfQrin.com/docs/hakref/phrkbox/phreakboxes.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031209132130/http://www.elfqrin.com:80/docs/hakref/phrkbox/phreakboxes.html",
+   "archived": "2003-12-09",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://www.everything2.com/index.pl?node=Encyclopedia%20Frobozzica&lastnode-id=585787": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20070219111901/http://www.everything2.com:80/index.pl?node=Encyclopedia%20Frobozzica&lastnode-id=585787",
+   "archived": "2007-02-19",
+   "note": "The original is unreachable (ECONNRESET).",
+   "checked": "2026-11-21"
+  },
+  "http://www.everything2.com/index.pl?node=Joe%20Job": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20060421184511/http://www.everything2.com:80/index.pl?node=Joe%20Job",
+   "archived": "2006-04-21",
+   "note": "The original is unreachable (ECONNRESET).",
+   "checked": "2026-11-21"
+  },
+  "http://www.foresight.org/EOC/index.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031202172647/http://www.foresight.org:80/EOC/index.html",
+   "archived": "2003-12-02",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://www.forkexec.com/html/play-advent.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031206100837/http://www.forkexec.com:80/html/play-advent.html",
+   "archived": "2003-12-06",
+   "note": "The original answers HTTP 403.",
+   "checked": "2026-11-21"
+  },
+  "http://www.forkexec.com/html/play-zork1.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031207060746/http://www.forkexec.com:80/html/play-zork1.html",
+   "archived": "2003-12-07",
+   "note": "The original answers HTTP 403.",
+   "checked": "2026-11-21"
+  },
+  "http://www.geekcode.com/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031225050542/http://geekcode.com:80/",
+   "archived": "2003-12-25",
+   "note": "The original now goes to https://www.google.com (front page).",
+   "checked": "2026-11-21"
+  },
+  "http://www.groklaw.net/article.php?story=20031024191141102": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20100505104012/http://www.groklaw.net/article.php?story=20031024191141102",
+   "archived": "2010-05-05",
+   "note": "The original answers HTTP 403.",
+   "checked": "2026-11-21"
+  },
+  "http://www.hillside.net/patterns/DPBook/GOF.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031209150602/http://www.hillside.net:80/patterns/DPBook/GOF.html",
+   "archived": "2003-12-09",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://www.ietf.org/rfc/rfc2795.txt": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031205015618/http://www.ietf.org:80/rfc/rfc2795.txt",
+   "archived": "2003-12-05",
+   "note": "The original now goes to https://www.rfc-editor.org.",
+   "checked": "2026-11-21"
+  },
+  "http://www.isc.tamu.edu/~lewing/linux/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031203021838/http://www.isc.tamu.edu:80/~lewing/linux/",
+   "archived": "2003-12-03",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://www.its.os.org/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031218105732/http://www.its.os.org:80/",
+   "archived": "2003-12-18",
+   "note": "The original is unreachable (ENOTFOUND).",
+   "checked": "2026-11-21"
+  },
+  "http://www.kibo.com/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20040102201818/http://www.kibo.com:80/",
+   "archived": "2004-01-02",
+   "note": "The original is unreachable (ENOTFOUND).",
+   "checked": "2026-11-21"
+  },
+  "http://www.latech.edu/~acm/helloworld/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031213020253/http://www2.latech.edu:80/~acm/helloworld/",
+   "archived": "2003-12-13",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://www.ling.helsinki.fi/~reriksso/unix/award.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031207071022/http://www.ling.helsinki.fi:80/~reriksso/unix/award.html",
+   "archived": "2003-12-07",
+   "note": "The original is unreachable (ENOTFOUND).",
+   "checked": "2026-11-21"
+  },
+  "http://www.nwta.com/Spy/spring99/tar.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20040208045507/http://www.nwta.com:80/Spy/spring99/tar.html",
+   "archived": "2004-02-08",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://www.nyx.org/~gthompso/quine.htm": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20040202084548/http://www.nyx.org:80/~gthompso/quine.htm",
+   "archived": "2004-02-02",
+   "note": "The original now goes to http://www.nyx.net.",
+   "checked": "2026-11-21"
+  },
+  "http://www.opensource.org/halloween/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20021204193241/http://www.opensource.org:80/halloween/",
+   "archived": "2002-12-04",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://www.personaltelco.net/index.cgi/WarDriving": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031204184703/http://www.personaltelco.net:80/index.cgi/WarDriving",
+   "archived": "2003-12-04",
+   "note": "The original is unreachable (AbortError).",
+   "checked": "2026-11-21"
+  },
+  "http://www.platopeople.com/emoticons.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031202141628/http://www.platopeople.com:80/emoticons.html",
+   "archived": "2003-12-02",
+   "note": "The original answers HTTP 503.",
+   "checked": "2026-11-21"
+  },
+  "http://www.radium.ncsc.mil/tpep/library/rainbow/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031204220255/http://www.radium.ncsc.mil:80/tpep/library/rainbow/",
+   "archived": "2003-12-04",
+   "note": "The original answers HTTP 503.",
+   "checked": "2026-11-21"
+  },
+  "http://www.sjbaker.org/teapot/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20040214175702/http://sjbaker.org:80/teapot/",
+   "archived": "2004-02-14",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://www.sjbaker.org/tux/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031202020017/http://www.sjbaker.org:80/tux/",
+   "archived": "2003-12-02",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://www.spam.com/ci/ci_in.htm": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031202023419/http://www.spam.com:80/ci/ci_in.htm",
+   "archived": "2003-12-02",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://www.spamfaq.net/terminology.shtml#chickenboner": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031205004134/http://spamfaq.net:80/terminology.shtml",
+   "archived": "2003-12-05",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://www.statusq.org/2001/11/26.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031204131132/http://www.statusq.org:80/2001/11/26.html",
+   "archived": "2003-12-04",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://www.stopspam.org/usenet/mmf/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031206071010/http://www.stopspam.org:80/usenet/mmf/",
+   "archived": "2003-12-06",
+   "note": "The original is unreachable (CERT_HAS_EXPIRED).",
+   "checked": "2026-11-21"
+  },
+  "http://www.stratus.com/pub/vos/multics/tvv/multics.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20020609182449/http://www.stratus.com:80/pub/vos/multics/tvv/multics.html",
+   "archived": "2002-06-09",
+   "note": "The original now goes to https://www.penguinsolutions.com.",
+   "checked": "2026-11-21"
+  },
+  "http://www.telefragged.com/thefatal/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031206073312/http://www.telefragged.com:80/thefatal/",
+   "archived": "2003-12-06",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://www.theregister.co.uk/content/4/26585.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031209134123/http://www.theregister.co.uk:80/content/4/26585.html",
+   "archived": "2003-12-09",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://www.tvtome.com/tvtome/servlet/GuidePageServlet/showid-146/epid-1381/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20040214095915/http://www.tvtome.com:80/tvtome/servlet/GuidePageServlet/showid-146/epid-1381/",
+   "archived": "2004-02-14",
+   "note": "The original is now a parked domain.",
+   "checked": "2026-11-21"
+  },
+  "http://www.vinc17.org/yp17_eng.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031203010148/http://www.vinc17.org:80/yp17_eng.html",
+   "archived": "2003-12-03",
+   "note": "The original now goes to https://www.vinc17.net.",
+   "checked": "2026-11-21"
+  },
+  "http://www.vrx.net/usenet/history/rename.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20021012011241/http://www.vrx.net:80/usenet/history/rename.html",
+   "archived": "2002-10-12",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://www.warchalking.org/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20040102144929/http://www.warchalking.org:80/",
+   "archived": "2004-01-02",
+   "note": "The original is unreachable (EAI_AGAIN).",
+   "checked": "2026-11-21"
+  },
+  "http://www.wired.com/wired/archive/2.10/godwin.if_pr.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20031210145130/http://www.wired.com:80/wired/archive/2.10/godwin.if_pr.html",
+   "archived": "2003-12-10",
+   "note": "The original answers HTTP 403.",
+   "checked": "2026-11-21"
+  },
+  "http://www.wps.com/texts/codes/index.html": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20030212085051/http://www.wps.com:80/texts/codes/index.html",
+   "archived": "2003-02-12",
+   "note": "The original answers HTTP 404.",
+   "checked": "2026-11-21"
+  },
+  "http://www.xs4all.nl/~pot/infocom/": {
+   "status": "archived",
+   "url": "https://web.archive.org/web/20040203131549/http://www.xs4all.nl:80/~pot/infocom/",
+   "archived": "2004-02-03",
+   "note": "The original now goes to https://notxs4all.home.xs4all.nl (front page).",
+   "checked": "2026-11-21"
+  },
+  "ftp://ftp.cc.utexas.edu/pub/AI-ATTIC/Programs/Classic/Eliza/Eliza.c": {
+   "status": "dead",
+   "url": null,
+   "note": "An FTP address, which browsers no longer open, and the Internet Archive has no copy.",
+   "checked": "2026-11-21"
+  },
+  "http://mail-abuse.org/rbl/usage.html": {
+   "status": "dead",
+   "url": null,
+   "note": "The original is unreachable (ENOTFOUND), and the Internet Archive has no copy.",
+   "checked": "2026-11-21"
+  },
+  "http://www.newscientist.com/lastword/answers/789communication.jsp?tp=communication": {
+   "status": "dead",
+   "url": null,
+   "note": "The original answers HTTP 403, and the Internet Archive has no copy.",
+   "checked": "2026-11-21"
+  },
+  "news:alt.usenet.kooks": {
+   "status": "unchecked",
+   "url": "news:alt.usenet.kooks",
+   "note": "Usenet newsgroup link (news:); left as written.",
+   "checked": "2026-11-21"
+  },
+  "frames.html": {
+   "status": "drop-paragraph",
+   "url": null,
+   "manual": true,
+   "note": "catb.org's framed view of the glossary; the paragraph that offered it is left out, since this edition has its own index."
+  }
+ }
+}
