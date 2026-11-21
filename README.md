@@ -11,7 +11,7 @@ This repository owns the **content**: Raymond's text, the fixes to its links, an
 
 ## CI
 
-The checks run in a Docker container, not on GitHub Actions: [continuous_integration_and_delivery/the-jargon-file](https://github.com/david-brandt-the-icelander/continuous_integration_and_delivery/tree/main/the-jargon-file). Its `build` mode runs `npm ci`, `npm test`, `npm run build` and checks that `LINKS.md` and `FIXES.md` are as committed; its `links` mode runs the outside-link check below. Its README says how to run and schedule them and how they can report a commit status here.
+The checks run in a Docker container, not on GitHub Actions: [continuous_integration_and_delivery/the-jargon-file](https://github.com/david-brandt-the-icelander/continuous_integration_and_delivery/tree/main/the-jargon-file). It watches this repository's branches and, for each new commit, runs `npm ci`, `npm test`, `npm run build` and checks that `LINKS.md` and `FIXES.md` are as committed, reporting the commit status `ci/the-jargon-file`. Once a week it runs the outside-link check below on `main` (`links/the-jargon-file`). Its README says how to set it up.
 
 ## Commands
 
@@ -35,7 +35,7 @@ npm test
 npm run links:check
 ```
 
-Checks every outside link again and rewrites `data/links.json` (about ten minutes). Entries marked `"manual": true` are a person's decision and are kept. The CI's `links` mode runs it with `--ci` (weekly, once a machine schedules it), which changes nothing and fails if a link readers are sent to has broken.
+Checks every outside link again and rewrites `data/links.json` (about ten minutes). Entries marked `"manual": true` are a person's decision and are kept. The CI container runs it weekly on `main` with `--ci`, which changes nothing and fails if a link readers are sent to has broken.
 
 ```bash
 npm run xkcd:fetch
