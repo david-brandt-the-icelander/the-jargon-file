@@ -9,6 +9,10 @@ This repository owns the **content**: Raymond's text, the fixes to its links, an
 - `data/`: what the build needs besides `upstream/`: `links.json` (every outside link and what to do with it), `catb-crossrefs.json` (how catb.org's own edition linked each cross-reference, for the tests), `xkcd/` (the comic index and the hand-made overrides).
 - `LINKS.md`, `FIXES.md`: every change the build makes to where a link points, and the two places the XML can't be read as written. Written by the build; CI fails if they are stale.
 
+## CI
+
+The checks run in a Docker container, not on GitHub Actions: [continuous_integration_and_delivery/the-jargon-file](https://github.com/david-brandt-the-icelander/continuous_integration_and_delivery/tree/main/the-jargon-file). Its `build` mode runs `npm ci`, `npm test`, `npm run build` and checks that `LINKS.md` and `FIXES.md` are as committed; its `links` mode runs the outside-link check below. Its README says how to run and schedule them and how they can report a commit status here.
+
 ## Commands
 
 Node 22 or later.
@@ -31,7 +35,7 @@ npm test
 npm run links:check
 ```
 
-Checks every outside link again and rewrites `data/links.json` (about ten minutes). Entries marked `"manual": true` are a person's decision and are kept. CI runs it weekly with `--ci`, which changes nothing and fails if a link readers are sent to has broken.
+Checks every outside link again and rewrites `data/links.json` (about ten minutes). Entries marked `"manual": true` are a person's decision and are kept. The CI's `links` mode runs it with `--ci` (weekly, once a machine schedules it), which changes nothing and fails if a link readers are sent to has broken.
 
 ```bash
 npm run xkcd:fetch
