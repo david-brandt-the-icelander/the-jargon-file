@@ -3,7 +3,10 @@
   "private": true,
   "type": "module",
   "description": "The Jargon File 4.4.7 as data, for icelander.net/the-jargon-file",
-  "engines": { "node": ">=22" },
+  "license": "Unlicense",
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "build": "node scripts/build.js",
     "test": "node --test test/*.test.js",
