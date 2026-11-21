@@ -113,11 +113,10 @@ Every other `href` is an ordinary absolute URL.
 - **The Jargon File:** public domain (`SOURCE.md`). Cite it with its version: "The Jargon File, version 4.4.7, 29 Dec 2003. Eric S. Raymond, ed." Some of its photographs may be other people's work; `SOURCE.md` lists them.
 - **xkcd** (`data/xkcd/comics.json` and the comics shown): Randall Munroe, CC BY-NC 2.5, <https://xkcd.com/license.html>.
 - **explainxkcd's transcripts** (`data/xkcd/transcripts.json`, used only for matching): explainxkcd's editors, CC BY-SA 3.0, <https://www.explainxkcd.com>.
-- **This repository's code** (`lib/`, `scripts/`, `test/`): not yet licensed; see "Open decisions".
+- **This repository's own work** (`lib/`, `scripts/`, `test/`, the data files it made: `data/links.json`, `data/catb-crossrefs.json`, `data/xkcd/overrides.json`, and its documents): public domain, under the Unlicense (`LICENSE`). The xkcd files above keep their own licences.
 
 ## Open decisions
 
 For the owner, David:
 
 - **The photographs.** `len_std.jpg` (Playboy's photograph of Lena Forsén) and the photographs whose photographers the File doesn't name (`SOURCE.md`) may not be covered by the File's public-domain statement. Show them, or replace them with a caption?
-- **A licence for the code.** The text is public domain; the code needs a licence of its own if others are to reuse it.
