@@ -1,0 +1,16 @@
+{
+  "name": "the-jargon-file",
+  "private": true,
+  "type": "module",
+  "description": "The Jargon File 4.4.7 as data, for icelander.net/the-jargon-file",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "build": "node scripts/build.js",
+    "test": "node --test test/*.test.js",
+    "links:check": "node scripts/check-links.js",
+    "xkcd:fetch": "node scripts/fetch-xkcd.js"
+  },
+  "dependencies": {
+    "@xmldom/xmldom": "0.9.12"
+  }
+}
