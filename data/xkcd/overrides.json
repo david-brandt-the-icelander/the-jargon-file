@@ -1,0 +1,146 @@
+{
+ "AOL-": {
+  "num": 256,
+  "why": "The map of online communities, AOL included."
+ },
+ "black-hat": {
+  "num": 278,
+  "why": "Black Hat, the comic's own black hat."
+ },
+ "blog": {
+  "num": 124,
+  "why": "The comic is about blogs."
+ },
+ "bug": {
+  "num": 1700,
+  "why": "A new bug, found the usual way."
+ },
+ "channel": {
+  "num": 322,
+  "why": "An IRC channel."
+ },
+ "Chernobyl-packet": {
+  "num": 1242,
+  "why": "Scary names, the entry's among them."
+ },
+ "considered-harmful": {
+  "num": 292,
+  "why": "goto, and Dijkstra's letter."
+ },
+ "Death-Star": {
+  "num": 1458,
+  "why": "The Death Star, by name."
+ },
+ "EMACS": {
+  "num": 378,
+  "why": "Real programmers and their editors, Emacs first."
+ },
+ "emoticon": {
+  "num": 380,
+  "why": "The comic is about emoticons."
+ },
+ "exploit": {
+  "num": 327,
+  "why": "Little Bobby Tables: the best-known exploit in comics."
+ },
+ "flame-war": {
+  "num": 386,
+  "why": "Someone is wrong on the Internet."
+ },
+ "free-software": {
+  "num": 225,
+  "why": "Richard Stallman and free software."
+ },
+ "geek": {
+  "num": 747,
+  "why": "The comic is about what a geek is."
+ },
+ "IMHO": {
+  "num": 1989,
+  "why": "The comic is about the abbreviation."
+ },
+ "IRC": {
+  "num": 802,
+  "why": "The map of online communities, IRC included."
+ },
+ "Linux": {
+  "num": 456,
+  "why": "Installing Linux, a cautionary tale."
+ },
+ "LISP": {
+  "num": 224,
+  "why": "The comic is about Lisp."
+ },
+ "Microsoft": {
+  "num": 1118,
+  "why": "The comic is about Microsoft."
+ },
+ "nano-": {
+  "num": 992,
+  "why": "Mnemonics for the SI prefixes."
+ },
+ "nerd": {
+  "num": 356,
+  "why": "Nerd sniping."
+ },
+ "open-source": {
+  "num": 225,
+  "why": "Richard Stallman and free software."
+ },
+ "Perl": {
+  "num": 1171,
+  "why": "Perl and regular expressions."
+ },
+ "pico-": {
+  "num": 992,
+  "why": "Mnemonics for the SI prefixes."
+ },
+ "ping": {
+  "num": 3150,
+  "why": "Network ping, as a joke on ICMP."
+ },
+ "random-numbers": {
+  "num": 221,
+  "why": "The standard random number."
+ },
+ "regexp": {
+  "num": 208,
+  "why": "Regular expressions save the day."
+ },
+ "RTFM": {
+  "num": 293,
+  "why": "The comic is about reading the manual."
+ },
+ "uptime": {
+  "num": 686,
+  "why": "A sysadmin mourning a machine's uptime."
+ },
+ "vi": {
+  "num": 378,
+  "why": "Real programmers and their editors, vim included."
+ },
+ "workaround": {
+  "num": 763,
+  "why": "The comic is about a workaround."
+ },
+ "black-hole": {
+  "num": null,
+  "why": "The entry is about lost mail; the comic is astrophysics."
+ },
+ "real-estate": {
+  "num": null,
+  "why": "The entry is about area on a chip or board; the comic is about property."
+ },
+ "source": {
+  "num": null,
+  "why": "Matched Open Source by the word alone; the entry is about source code in general."
+ },
+ "upload": {
+  "num": null,
+  "why": "The comic is about uploading a mind; the entry is about file transfer."
+ },
+ "washing-machine": {
+  "num": null,
+  "why": "The entry is an old disk drive; the comic is about laundry."
+ }
+}

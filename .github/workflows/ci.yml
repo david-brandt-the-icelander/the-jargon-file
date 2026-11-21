@@ -1,0 +1,22 @@
+name: CI
+
+# Every push and pull request: test, build, and check that LINKS.md and FIXES.md
+# are what the build writes.
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - run: npm run build
+      - run: git diff --exit-code -- LINKS.md FIXES.md
